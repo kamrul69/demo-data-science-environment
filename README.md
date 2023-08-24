@@ -1,3 +1,3 @@
-# My Data Science Environment
+# My Data Science virtual Environment project
 
-this is a test data science project
+#### This is a demo data science 'virtual environment' project.
